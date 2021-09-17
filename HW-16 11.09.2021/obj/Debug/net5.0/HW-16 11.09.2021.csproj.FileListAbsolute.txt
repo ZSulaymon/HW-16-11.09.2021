@@ -1,0 +1,23 @@
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\HW-16 11.09.2021.exe
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\HW-16 11.09.2021.deps.json
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\HW-16 11.09.2021.runtimeconfig.json
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\HW-16 11.09.2021.runtimeconfig.dev.json
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\HW-16 11.09.2021.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\ref\HW-16 11.09.2021.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\HW-16 11.09.2021.pdb
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.csproj.AssemblyReference.cache
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.AssemblyInfoInputs.cache
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.AssemblyInfo.cs
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.csproj.CoreCompileInputs.cache
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.csproj.CopyComplete
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\ref\HW-16 11.09.2021.dll
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.pdb
+D:\Course C#\HW\HW-16\HW-16\HW-16 11.09.2021\obj\Debug\net5.0\HW-16 11.09.2021.genruntimeconfig.cache
